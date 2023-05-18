@@ -1,6 +1,7 @@
 # Chapter 2
-
+#
 ## Loads the Statistics Using R library (once per R session)
+#install.packages("sur")
 library(sur)
 
 # Table 2.1
